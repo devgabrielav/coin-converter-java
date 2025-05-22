@@ -53,7 +53,7 @@ Além disso, o sistema mantém um histórico das operações realizadas, que pod
 
     Atenção: as instruções são, para utilização no IntelliJ.
 
-5.  Siga as instruções no terminal para realizar as conversões desejadas.
+5.  **Siga as instruções no terminal para realizar as conversões desejadas.**
 
 ## Estrutura do Projeto
 
