@@ -58,8 +58,6 @@ Além disso, o sistema mantém um histórico das operações realizadas, que pod
     java src/Main
     ```
 
-    *(Assumindo que sua classe principal se chama `Main` e está dentro do diretório `src`)*
-
 5.  Siga as instruções no terminal para realizar as conversões desejadas.
 
 ## Estrutura do Projeto
