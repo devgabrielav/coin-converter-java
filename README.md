@@ -46,17 +46,12 @@ Além disso, o sistema mantém um histórico das operações realizadas, que pod
     }
     ```
 
-3.  **Compile o projeto Java.** Você pode fazer isso utilizando um ambiente de desenvolvimento integrado (IDE) como IntelliJ IDEA, Eclipse, ou através da linha de comando com o compilador `javac`.
+3.  **Execute o projeto.**
 
-    ```bash
-    javac src/*.java
-    ```
+    No arquivo Main
+    Pressione Shift+F10 ou Clique no botão de play verde, na parte superior direita.
 
-4.  **Execute o projeto.**
-
-    ```bash
-    java src/Main
-    ```
+    Atenção: as instruções são, para utilização no IntelliJ.
 
 5.  Siga as instruções no terminal para realizar as conversões desejadas.
 
